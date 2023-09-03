@@ -14,5 +14,8 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  fontFamily: {
+    sans: ['Consolas', 'ui-sans-serif', 'system-ui'],
+    // Add any other font families you need here
+  },
 }
